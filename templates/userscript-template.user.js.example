@@ -1,0 +1,19 @@
+// ==UserScript==
+// @name         Example Site Enhancement
+// @namespace    open-userscripts.example-site.example-enhancement
+// @version      1.0.0
+// @description  Briefly explain what your script changes
+// @match        https://example.com/*
+// @run-at       document-end
+// @grant        none
+// @homepageURL  https://github.com/YOUR_GITHUB_USERNAME/open-userscripts
+// @supportURL   https://github.com/YOUR_GITHUB_USERNAME/open-userscripts/issues
+// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/example-site/example-enhancement.user.js
+// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/example-site/example-enhancement.user.js
+// ==/UserScript==
+
+(function () {
+    'use strict';
+
+    // Always scope changes to the minimum necessary elements.
+})();
