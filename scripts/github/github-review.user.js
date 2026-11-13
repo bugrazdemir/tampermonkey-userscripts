@@ -6,10 +6,10 @@
 // @match        https://github.com/*/*/pull/*
 // @run-at       document-start
 // @grant        none
-// @homepageURL  https://github.com/YOUR_GITHUB_USERNAME/open-userscripts
-// @supportURL   https://github.com/YOUR_GITHUB_USERNAME/open-userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/github/github-review.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/github/github-review.user.js
+// // @homepageURL  https://github.com/bugrazdemir/tampermonkey-userscripts
+// @supportURL   https://github.com/bugrazdemir/tampermonkey-userscripts/issues
+// @updateURL    https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js
+// @downloadURL  https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js
 // ==/UserScript==
 
 (function () {
