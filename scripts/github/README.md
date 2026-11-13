@@ -1,6 +1,6 @@
 # GitHub Review Minimal UI
 
-**Current version:** `1.6.0` · **Applies to:** `https://github.com/*/*/pull/*` · **License:** MIT
+**Current version:** `1.6.2` · **Applies to:** `https://github.com/*/*/pull/*` · **License:** MIT
 
 [Install](https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js) · [Source](./github-review.user.js) · [Main catalog](../../README.md)
 
