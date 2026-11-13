@@ -2,7 +2,7 @@
 
 **Version:** `1.0.0` · **Applies to:** `https://example.com/*` · **License:** MIT
 
-[Install](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/example-site/example-enhancement.user.js) · [Source](./example-enhancement.user.js)
+[Install](https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/example-site/example-enhancement.user.js) · [Source](./example-enhancement.user.js)
 
 ## Description
 

@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         GitHub Review Minimal UI
 // @namespace    custom.github.review
-// @version      1.6.1
+// @version      1.6.2
 // @description  Simplified two-column GitHub PR review with a persistent shortcut reminder
 // @match        https://github.com/*/*/pull/*
 // @run-at       document-start
 // @grant        none
-//  @homepageURL  https://github.com/bugrazdemir/tampermonkey-userscripts
+// @homepageURL  https://github.com/bugrazdemir/tampermonkey-userscripts
 // @supportURL   https://github.com/bugrazdemir/tampermonkey-userscripts/issues
 // @updateURL    https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js
 // @downloadURL  https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js

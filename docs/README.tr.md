@@ -8,7 +8,7 @@
 
 1. [Tampermonkey](https://www.tampermonkey.net/) tarayıcı eklentisini yükle.
 2. Tarayıcı istiyorsa **Allow user scripts** iznini etkinleştir.
-3. [GitHub Review scriptini kur](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/github/github-review.user.js). Tampermonkey kurulum penceresinden izinleri kontrol edip onayla.
+3. [GitHub Review scriptini kur](https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js). Tampermonkey kurulum penceresinden izinleri kontrol edip onayla.
 4. Script GitHub pull request sayfalarında çalışır. Tasarımı **Alt + Shift + M** ile açıp kapatabilirsin.
 
 ## Güncelleme

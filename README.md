@@ -8,7 +8,7 @@
 
 | Website | Userscript | What it does | Documentation | Install |
 |---|---|---|---|---|
-| GitHub | **GitHub Review Minimal UI** | Two-column pull request review layout, less visual noise, keyboard toggle | [Details](./scripts/github/README.md) | [Install userscript](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/github/github-review.user.js) |
+| GitHub | **GitHub Review Minimal UI** | Two-column pull request review layout, less visual noise, keyboard toggle | [Details](./scripts/github/README.md) | [Install userscript](https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js) |
 
 Each script is optional and independently installed, enabled, disabled, and updated. More websites and scripts can be added under `scripts/<website>/`.
 

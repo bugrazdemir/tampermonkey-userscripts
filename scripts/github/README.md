@@ -2,7 +2,7 @@
 
 **Current version:** `1.6.0` · **Applies to:** `https://github.com/*/*/pull/*` · **License:** MIT
 
-[Install](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/github/github-review.user.js) · [Source](./github-review.user.js) · [Main catalog](../../README.md)
+[Install](https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js) · [Source](./github-review.user.js) · [Main catalog](../../README.md)
 
 ## Description
 
@@ -22,7 +22,7 @@ The script does not require external libraries or an external service. Its users
 ## Install and use
 
 1. Install Tampermonkey and allow userscripts if your browser requires it.
-2. Open the [Install link](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/open-userscripts/main/scripts/github/github-review.user.js) and accept the installation prompt.
+2. Open the [Install link](https://raw.githubusercontent.com/bugrazdemir/tampermonkey-userscripts/main/scripts/github/github-review.user.js) and accept the installation prompt.
 3. Open a GitHub pull request; press **Alt + Shift + M** to enable/disable the layout.
 
 **Permissions:** Runs on GitHub pull-request URLs matched by `@match`. Read the source code before installing.
